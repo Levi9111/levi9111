@@ -72,6 +72,8 @@ const shanjid = {
 
 ---
 
+---
+
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
@@ -79,16 +81,16 @@ const shanjid = {
 
 <div align="center">
   <a href="https://github.com/levi9111">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levi9111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=FF6B6B&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&ring_color=FF6B6B"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=levi9111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
   </a>
   <a href="https://github.com/levi9111">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi9111&layout=compact&theme=radical&border_radius=10&border_color=FF6B6B&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&hide=html,css"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=levi9111&layout=compact&theme=radical&hide=html,css"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/levi9111">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=radical&border_radius=10&border=FF6B6B&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideNums=FFF&currStreakNum=FFF&dates=FFF&sideLabels=FFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=levi9111&theme=radical&border_radius=10" />
   </a>
 </div>
 
@@ -100,25 +102,20 @@ const shanjid = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/levi9111">
-    <img src="https://github-profile-trophy.vercel.app/?username=levi9111&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=levi9111&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFF&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=levi9111&theme=onedark&title=Stars,Followers,Repositories,Commit&margin-w=10&no-bg=true&row=1" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>📚 Currently Learning</h2>
+  <h2>💡 Random Developer Quote</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,postgresql,docker" alt="Currently Learning" />
+  <img src="https://readme-quote.vercel.app/api?theme=tokyonight&border=true" alt="Random Dev Quote" />
 </div>
+
 
 ---
 
