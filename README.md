@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Shanjid+Ahmad;MERN+Stack+Developer;Modern+Web+Developer;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Shanjid+Ahmad;MERN+Stack+Developer;Modern+Web+Developer;From+Bangladesh+🇧🇩" />
+  </h1>
 </div>
 
 <div align="center">
@@ -82,34 +84,35 @@ const shanjid = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levi9111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi9111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <a href="https://github.com/levi9111">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levi9111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=FF6B6B&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&ring_color=FF6B6B"/>
+  </a>
+  <a href="https://github.com/levi9111">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi9111&layout=compact&theme=radical&border_radius=10&border_color=FF6B6B&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&hide=html,css"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=levi9111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/levi9111">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=radical&border_radius=10&border=FF6B6B&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideNums=FFF&currStreakNum=FFF&dates=FFF&sideLabels=FFF" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
+  <h2>🏆 GitHub Achievements</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=levi9111&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/levi9111">
+    <img src="https://github-profile-trophy.vercel.app/?username=levi9111&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=levi9111&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFF&area=true&hide_border=true" />
 </div>
 
 ---
