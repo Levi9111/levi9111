@@ -90,15 +90,13 @@ const shanjid = {
 
 <div align="center">
   <a href="https://github.com/levi9111">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=levi9111&theme=radical&border_radius=10" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/levi9111">
     <img src="https://streak-stats.demolab.com/?user=levi9111&theme=radical&border_radius=10" />
   </a>
 </div>
+
+<noscript>
+  <p>GitHub Streak Stats not visible? Enable JavaScript or check back later.</p>
+</noscript>
 
 ---
 
