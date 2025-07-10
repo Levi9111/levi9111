@@ -1,10 +1,4 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Shanjid+Ahmad;MERN+Stack+Developer;Modern+Web+Developer;From+Bangladesh+🇧🇩" />
-  </h1>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </div>
 
@@ -49,7 +43,7 @@ const shanjid = {
   <a href="https://github.com/levi9111" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://portfolio-shanjid.vercel.app" target="_blank">
+  <a href="https://www.uixdesignlab.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -68,7 +62,7 @@ const shanjid = {
 
 ### Backend Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,redis,docker" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,docker" alt="Backend Skills" />
 </div>
 
 ### Tools & Others
@@ -123,7 +117,7 @@ const shanjid = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,postgresql,docker,aws,redis,graphql" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=threejs,postgresql,docker" alt="Currently Learning" />
 </div>
 
 ---
@@ -137,13 +131,7 @@ const shanjid = {
   
   🚀 **Master AI Integration in Full Stack Development**
   
-  🌟 **Build 10+ Production-Ready Projects**
-  
-  📱 **Learn Mobile Development with React Native**
-  
-  ☁️ **Master Cloud Technologies (AWS/Azure)**
-  
-  👥 **Contribute to Open Source Projects**
+  📱 **Learn Three JS and GSAP**
   
 </div>
 
