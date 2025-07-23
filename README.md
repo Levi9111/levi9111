@@ -17,7 +17,7 @@
 
 ```javascript
 const shanjid = {
-    location: "Dhaka, Bangladesh 🇧🇩",
+    location: "Chittagong, Bangladesh 🇧🇩",
     currentFocus: "Building scalable web applications with modern technologies",
     learning: ["Three.js", "Advanced React Patterns", "PostgreSQL", "AI Integration"],
     goals2025: "Become an AI-powered Full Stack Developer",
