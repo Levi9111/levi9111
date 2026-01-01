@@ -45,13 +45,6 @@ const shanjid = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 📊 GitHub Stats
-Option 1: Aniket's API (Most Reliable)
-<p align="center"> <img src="https://stats.aniket.live/api?username=levi9111&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://stats.aniket.live/api/top-langs/?username=levi9111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
-Option 2: GitHub Readme Stats (Official)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=levi9111&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi9111&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" /> </p>
-Option 3: Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=levi9111&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
-Option 4: Simple Stats (Always Works)
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levi9111&theme=radical" alt="Profile Details" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=levi9111&theme=radical" alt="Languages" width="45%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=levi9111&theme=radical" alt="Commit Languages" width="45%" /> </p>
 
 
