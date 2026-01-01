@@ -55,6 +55,32 @@ const shanjid = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=github-dark-blue" width="500" />
 </p>
 
+
+## 📊 My Coding Streak
+
+🔥 **Current Streak:** [Check Live on GitHub](https://github.com/levi9111)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=github-dark-blue" width="500" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=levi9111)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-amber.vercel.app/?user=levi9111&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  🔥 <strong>My Coding Streak:</strong> 
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=levi9111" alt="GitHub Streak" />
+  </a>
+</p>
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanjid-ahmad/)
