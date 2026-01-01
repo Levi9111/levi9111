@@ -47,6 +47,13 @@ const shanjid = {
 📊 GitHub Stats
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levi9111&theme=radical" alt="Profile Details" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=levi9111&theme=radical" alt="Languages" width="45%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=levi9111&theme=radical" alt="Commit Languages" width="45%" /> </p>
 
+## 📊 My Coding Streak
+
+🔥 **Current Streak:** [Check Live on GitHub](https://github.com/levi9111)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi9111&theme=github-dark-blue" width="500" />
+</p>
 
 ## 🌐 Connect With Me
 
