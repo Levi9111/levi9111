@@ -5,7 +5,6 @@
 
 I'm a Full Stack Developer from Maulvibazar, Bangladesh, passionate about building scalable web applications and mobile apps with modern technologies.
 
-```javascript
 const shanjid = {
   location: "Maulvibazar, Bangladesh",
   currentFocus: "Mobile App Development & Building SaaS",
