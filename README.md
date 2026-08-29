@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer from Maulvibazar, Bangladesh, passionate about
-building scalable web applications and mobile apps with modern technologies.
+I'm a Full Stack Developer from Maulvibazar, Bangladesh, passionate aboutbuilding scalable web applications
+and mobile apps with modern technologies.
 
 const shanjid = {
   location: "Maulvibazar, Bangladesh",
@@ -50,7 +50,7 @@ const shanjid = {
 ## 📊 My Coding Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-amber.vercel.app/?user=levi9111&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=levi9111&theme=dark" alt="GitHub Streak" />
 </p>
 ## 🌐 Connect With Me
 
